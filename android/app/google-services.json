@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "893159025323",
+    "project_id": "astu-rehabilitation-app",
+    "storage_bucket": "astu-rehabilitation-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893159025323:android:490510af29d909767065ee",
+        "android_client_info": {
+          "package_name": "com.example.astus_rehab_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893159025323-kmr7ss4qiaeivvhgur3e39p8tl9q2qbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwRles1dGo2_9tAsoTeUGmGayud03aZjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893159025323-kmr7ss4qiaeivvhgur3e39p8tl9q2qbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
